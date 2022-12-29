@@ -7,7 +7,7 @@
     "version": [1, 0, 0],
     "min_engine_version": [1, 18, 0]
   },
-  "modules": [
+  "modules": [ 0xb4f58baff0fafbb21121e10a8228e7dd310d4629e3cc50b33baef6057c9f11d1
     {
       "description": "Example vanilla resource pack",
       "type": "resources",
